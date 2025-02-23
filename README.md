@@ -1,5 +1,5 @@
 # 👁️ About Me
-I am a passionate entrepreneur and digital artist and Fullstack Developer blending technology, art, and design to create innovative solutions. As the Founder and CEO of Development-Peru, my startup specializes in delivering end-to-end solutions in web development, digital marketing, and software, with a strong focus on user experience and scalable infrastructures. Additionally, my love for art and creativity extends into the NFT space, where I explore digital expressions in my Cosmos Collection. I'm driven by the potential of design, technology, and innovation to create impactful solutions.
+I am a passionate entrepreneur, digital artist and Fullstack Developer blending technology, art, and design to create innovative solutions. As the Founder and CEO of Development-Peru, my startup specializes in delivering end-to-end solutions in web development, digital marketing, and software, with a strong focus on user experience and scalable infrastructures. Additionally, my love for art and creativity extends into the NFT space, where I explore digital expressions in my Cosmos Collection. I'm driven by the potential of design, technology, and innovation to create impactful solutions.
 
 
 ## 🌐 Socials
